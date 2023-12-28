@@ -1,1 +1,1 @@
-# Future StandSit Timer
+# Future Stand-Sit Timer
